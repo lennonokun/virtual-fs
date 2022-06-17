@@ -115,7 +115,7 @@ void visualize() {
 }
 
 int main(int argc, char *argv[]) {
-	char *help_msg = "Usage: ./ifs [-u <userid>] [-f <drive>]\n";
+	char *help_msg = "Usage: ./vfs [-u <userid>] [-f <drive>]\n";
 	int opt;
 	int opt_u = 0;
 	int opt_g = 0;
